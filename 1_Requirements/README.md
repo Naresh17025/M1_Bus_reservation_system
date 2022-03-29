@@ -34,7 +34,7 @@ To create a software application that supports the project Travel Agency Automat
 ### Defining Our Sysytem
 A bus reservation system is a mobile or web software solution that allows users to book and purchase tickets online using a tailored, easy-to-use user experience. It keeps track of customers' personal data, routes, frequent journeys, drop-off sites, and other details.
 ## SWOT ANALYSIS
-
+![alt text](https://github.com/Naresh17025/M1_Bus_reservation_system/blob/main/1_Requirements/SWOT%20Analysis.png)
 
 ## 4W's And 1'H
 ### who:
