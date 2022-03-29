@@ -3,14 +3,14 @@
 ## High Level Test Plan
 | Test ID | Description | Exp.i/p | Exp.o/p | Actual o/p | Type Of Test |
 | --------|:------------|:--------|:--------|:-----------|:-------------|
-| H_01 | check if the avaliable bus in a system properly | formatted bus list page | formated bus list page | Requirement |
-| H_02 | check if the number seats avaliable seats menu displayed properly | formatted menu page | formatted menu page | Requirement |
-| H_03 | check if the passengers names displayed properly | formatted name list | formatted name list | Requirement |
-| H_04 | check if the seats are booked properly  | formatted booked tickets | formatted booked tickets | Requirement |
-| H_05 | check if the passengers tickets details are  displayed properly | formatted details page |  formatted details page | Requirement |
-| H_06 | check if the seats are properly allocated  | formatted seats allocation | formatted seats allocation | Requirement |
-| H_07 | check if the tickets are cancelled properly | formatted cancel page | formatted cancel page | Requirement |
-| H_08 | check if the user information displayed properly | login credentials | login credentials | Requirement |
+| H_01 | check if the avaliable bus in a system properly | proper execution | formatted bus list page | formated bus list page | Requirement |
+| H_02 | check if the number seats avaliable seats menu displayed properly | proper execution | formatted menu page | formatted menu page | Requirement |
+| H_03 | check if the passengers names displayed properly | formatted name list | proper execution | formatted name list | Requirement |
+| H_04 | check if the seats are booked properly  | formatted booked tickets | proper execution | formatted booked tickets | Requirement |
+| H_05 | check if the passengers tickets details are  displayed properly | proper execution | formatted details page |  formatted details page | Requirement |
+| H_06 | check if the seats are properly allocated  | proper execution | formatted seats allocation | formatted seats allocation | Requirement |
+| H_07 | check if the tickets are cancelled properly | proper execution | formatted cancel page | formatted cancel page | Requirement |
+| H_08 | check if the user information displayed properly | proper execution | login credentials | login credentials | Requirement |
 
 ## Low Level Test Plan
 | Test ID | Description | Exp.i/p | Exp.o/p | Actual o/p | Type Of Test |
