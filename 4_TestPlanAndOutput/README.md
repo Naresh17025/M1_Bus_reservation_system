@@ -5,8 +5,8 @@
 | --------|:------------|:--------|:--------|:-----------|:-------------|
 | H_01 | check if the avaliable bus in a system properly | proper execution | formatted bus list page | formated bus list page | Requirement |
 | H_02 | check if the number seats avaliable seats menu displayed properly | proper execution | formatted menu page | formatted menu page | Requirement |
-| H_03 | check if the passengers names displayed properly | formatted name list | proper execution | formatted name list | Requirement |
-| H_04 | check if the seats are booked properly  | formatted booked tickets | proper execution | formatted booked tickets | Requirement |
+| H_03 | check if the passengers names displayed properly | proper execution | formatted name list | formatted name list | Requirement |
+| H_04 | check if the seats are booked properly  | proper execution | formatted booked tickets | formatted booked tickets | Requirement |
 | H_05 | check if the passengers tickets details are  displayed properly | proper execution | formatted details page |  formatted details page | Requirement |
 | H_06 | check if the seats are properly allocated  | proper execution | formatted seats allocation | formatted seats allocation | Requirement |
 | H_07 | check if the tickets are cancelled properly | proper execution | formatted cancel page | formatted cancel page | Requirement |
