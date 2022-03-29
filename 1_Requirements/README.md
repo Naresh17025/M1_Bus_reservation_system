@@ -31,7 +31,7 @@ To create a software application that supports the project Travel Agency Automat
 * It's not easy to figure out how much your bus reservation system will cost in the end. Prices are determined by a variety of factors, including the size, complexity, and scope of your coach company's operations.
 * The level of personalization and the level of competition on the market in the location where you operate are further elements that could add to the bill.
 * Fortunately, the software industry's trends and technical abilities extend to the tourism industry as well. Operators in the long-distance bus business will eventually concentrate toward the most capable platform providers, much as they have in the airline and hotel reservation systems.
-### Defining Our Sysytem
+### Defining Our System
 A bus reservation system is a mobile or web software solution that allows users to book and purchase tickets online using a tailored, easy-to-use user experience. It keeps track of customers' personal data, routes, frequent journeys, drop-off sites, and other details.
 ## SWOT ANALYSIS
 ![alt text](https://github.com/Naresh17025/M1_Bus_reservation_system/blob/main/1_Requirements/SWOT%20Analysis.png)
