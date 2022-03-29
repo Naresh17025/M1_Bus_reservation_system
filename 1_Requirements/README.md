@@ -56,6 +56,27 @@ A bus reservation system is a mobile or web software solution that allows users 
 * Plan the Booking Management Module. 
 * Advanced Features for Bus Ticket Booking App.
 ## High Level Requirements:
-
+| ID | Description | Cateogery | Status |
+| ---|:------------|:----------|:-------|
+| HR01 | user can be able to access bus list | Technical | IMPLEMENTED |
+| HR02 | user can be able to access number of seats | Technical | IMPLEMENTED |
+| HR03 | user can be able to see the list of pasangers name | Technical | IMPLEMENTED |
+| HR04 | user can be able to choose bus seats | Technical | IMPLEMENTED |
+| HR05 | user can be able to show passengers ticket details | Technical | IMPLEMENTED |
+| HR06 | user can be able to show confirming the avaliable seats | Technical |IMPLEMENTED |
+| HR07 | user can be able to cancelling the tickets | Technical | IMPLEMENTED |
+| HR08 | user can be able to access the login page | Technical | IMPLEMENTED |
 
 ## Low Level Requirements:
+| ID | Description | HLR ID | Status(IMPLEMENTED/FUTURE) |
+|----|:------------|:-------|:---------------------------|
+| LR01 | user must choose the option for list of avaliable bus in the reservation system | HR01 | IMPLEMENTED |
+| LR02 | same operation for accessing number of seats in the reservation system | HR02 | IMPLEMENTED |
+| LR03 | same operation for to view the list of passengers name in the reservation system | HR03 | IMPLEMENTED |
+| LR04 | same operations for choosing number of avaliable seats in the reservation system | HR04 | IMPLEMENTED |
+| LRO5 | same operation for to view the passengers ticket details in the reservation system | HR05 | IMPLEMENTED |
+| LR06 | same operation for confirmed the avaliable seats | HR06 | IMPLEMENTED |
+| LR07 | same operation for cancelling the booked ticket by user | HR07 | IMPLEMENTED |
+| LR08 | user can view the welcoming page to accessing all operations easily | HR08 | IMPLEMENTED |
+ 
+
