@@ -1,3 +1,13 @@
+/**
+ * @file bus.c
+ * @author  Naresh D (naresh.d.2018.ece@ritchennai.edu.in)
+ * @brief This is the main program where the project is run
+ * @version 0.1
+ * @date 2022-03-31
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -15,7 +25,12 @@ void read_name(int trno);//for reading the name from the file
 void status();//for printing the status by user input
 void status_1(int trno);//for printing the status while booking ticket
 void cancel();
-
+/* Start of the application */
+/**
+ * @brief Main program
+ * 
+ * @return int 
+ */
 int main()
 {
 	login();

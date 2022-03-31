@@ -79,4 +79,3 @@ A bus reservation system is a mobile or web software solution that allows users 
 | LR07 | same operation for cancelling the booked ticket by user | HR07 | IMPLEMENTED |
 | LR08 | user can view the welcoming page to accessing all operations easily | HR08 | IMPLEMENTED |
  
-

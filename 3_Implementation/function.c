@@ -1,3 +1,13 @@
+/**
+ * @file function.c
+ * @author Naresh D (naresh.d.2018.ece@ritchennai.edu.in)
+ * @brief This is the functions program where the project is run
+ * @version 0.1
+ * @date 2022-03-31
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -7,6 +17,10 @@ char name[32][100]={'\0'};
 char number[32][2]={'\0'};
 int num1[32]={0};
 int trno;
+/**
+ * @brief LIST OF BUS
+ * @return SHOW LIST OF BUS AVALIABLE
+ */
 void bus()
 {
     system("cls");
@@ -24,7 +38,10 @@ void bus()
 	printf("\n"); 
 	printf("\t\t\t\t\t[6]  =>  %s\n",ch[5]);
 }
-
+/**
+ * @brief NUMBER OF SEATS AVAILIABLE
+ * @return SHOW NUMBER OF SEATS AVAILIABLE
+ */
 void book()
 {
 
@@ -130,7 +147,12 @@ else if(trno == 6)
  fclose(f1);
 }
 }
-}void name_n0(int book,char numstr[100])
+}
+/**
+ * @brief ENTER NAME
+ * @return DISPLAY NAME
+ */
+void name_n0(int book,char numstr[100])
 {
 char tempstr[100],tempstr1[12]="status",tempstr2[12]="number";
 int number;
@@ -158,9 +180,10 @@ for(i=0; i<book; i++)//for entering the person name and seat number in the file
 fclose(a);
 fclose(b);
 }
-
-
-
+/**
+ * @brief SELECTING A SEAT 
+ * @return CHOOSING SEATS
+ */
 int read_n0(int trno)//for putting the numeric value in the array
 {
 char tempstr[100],tempstr2[12]="number";
@@ -193,8 +216,10 @@ a = fopen(tempstr2,"a+");//for open the file to write the name in the file
    fclose(a);
    return k;
 }
-
-
+/**
+ * @brief CONFIRMATION OF TICKET 
+ * @return SHOWS PASSENGER TICKET DEATILS
+ */
 void read_name(int trno)//for putting the numeric value in the array
 {
 char tempstr1[12]="status";
@@ -224,7 +249,10 @@ b = fopen(tempstr1,"a+");//for open the file to write the name in the file
    k=i;
    fclose(b);
 }
-
+/**
+ * @brief LOCK THE SEAT 1
+ * @return CONFIRMATION OF SEATING ALLOTMENT 1
+ */
 void status()
 {
 system("cls");
@@ -253,7 +281,10 @@ printf("=========================================== BUS RESERVATION SYSTEM =====
             printf("\n");
     }
 }
-
+/**
+ * @brief LOCK THE SEAT 2
+ * @return CONFIRMATION OF SEATING ALLOTMENT 2
+ */
 void status_1(int trno)
 {
     printf("Your Bus Number is %d ********** %s",trno,ch[trno-1]);
@@ -278,8 +309,10 @@ printf("=========================================== BUS RESERVATION SYSTEM =====
             printf("\n");
 }
 }
-
-
+/**
+ * @brief   CANCELLING TICKET 
+ * @return TICKET CANCELLATION
+ */
 void cancel()
 {
  int seat_no,i,j;
@@ -323,8 +356,10 @@ printf("\n\n");
  printf("\t\t\t\tYour 300 rupees has been Returned\t\t\t\n");
     printf("======================================================================================================\n");
 }
-
-
+/**
+ * @brief USER LOGIN
+ * @return USER INFORMATION
+ */
 void login()
 {
 	int a=0,i=0;

@@ -1,6 +1,6 @@
 # TEST PLAN and Corresponding Output
 
-## High Level Test Plan
+## High Level Test Plan 
 | Test ID | Description | Exp.i/p | Exp.o/p | Actual o/p | Type Of Test |
 | --------|:------------|:--------|:--------|:-----------|:-------------|
 | H_01 | check if the avaliable bus in a system properly | proper execution | formatted bus list page | formated bus list page | Requirement |
