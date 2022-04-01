@@ -12,3 +12,5 @@
 ![Codiga](https://api.codiga.io/project/32304/status/svg)
 ### Build on Windows
 [![Build CI - Linux](https://github.com/Naresh17025/M1_Bus_reservation_system/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Naresh17025/M1_Bus_reservation_system/actions/workflows/c-cpp.yml)
+### Valgrind
+[![Valgrind](https://github.com/Naresh17025/M1_Bus_reservation_system/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Naresh17025/M1_Bus_reservation_system/actions/workflows/valgrind.yml)
